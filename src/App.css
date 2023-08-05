@@ -1,0 +1,35 @@
+.App {
+  background-color: rgba(102, 98, 105, 0.603);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  color: white;
+}
+
+.toplama{
+  text-align: center;
+  font-size: 115px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#incorrect {
+  color: red;
+}
+
+#kazandın {
+  min-height: 100vh;
+  font-size: 100px;
+  color: green;
+  background-color: rgba(102, 98, 105, 0.603);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#kaybettin {
+  min-height: 100vh;
+  font-size: 100px;
+  color: red;
+  background-color: rgba(102, 98, 105, 0.603);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
